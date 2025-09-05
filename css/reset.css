@@ -21,7 +21,7 @@ figure,
 blockquote,
 dl,
 dd {
-  margin: 0;
+  margin: 1;
 }
 
 /* Remove list styles on ul, ol elements */
